@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-=======
-# amazon_product_reviews_ML
->>>>>>> Stashed changes
 ## Amazon Product Review - ML
 
 ## Overview of the analysis
