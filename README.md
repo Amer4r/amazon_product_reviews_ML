@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## Models
 2 models were tested on the dataset RandomForestModel and SVC Model. both model were able to achieve model performance
 
-## Summary nd feature enhancement
+## Summary and feature enhancement
 - RandomForestModel:
 The model was not able to achieve high accuracy rate for prediction with score of 66.07%.
 - SVC Model
