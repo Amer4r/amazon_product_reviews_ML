@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+# amazon_product_reviews_ML
+>>>>>>> Stashed changes
 ## Amazon Product Review - ML
 
 ## Overview of the analysis
@@ -68,5 +72,9 @@ chatgpt.com
 ### Contributors
 - Amer Banaweer
 - Charu Arora
+<<<<<<< Updated upstream
 - Edward Chac
 
+=======
+- Edward Chac
+>>>>>>> Stashed changes
