@@ -1,3 +1,9 @@
+---
+noteId: "f1bcabd0292411ef979569cc5f3bf7c5"
+tags: []
+
+---
+
 ## Overview of the analysis
 The purpose of this analysis is to implement and develop a model for Amazon Products Reviews. The model is to detemine the positive and negitive reviews for products and determine which products is likely to grow sales. Dataset was used from a live API called RapidAPI.
 
