@@ -72,9 +72,5 @@ chatgpt.com
 ### Contributors
 - Amer Banaweer
 - Charu Arora
-<<<<<<< Updated upstream
 - Edward Chac
 
-=======
-- Edward Chac
->>>>>>> Stashed changes
