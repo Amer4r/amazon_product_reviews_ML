@@ -23,13 +23,13 @@ pip install -r requirements.txt
 -  Installation - Python 3.x
 - Hosting/Cloud - Amazon Web Services
 
+## Models
+2 models were tested on the dataset RandomForestModel and SVC Model. both model were able to achieve model performance
+
 ## Result 
 - Targeted variable: 'sentiment' that represent positive 1 and negitive 0.
 
 - Features: no_stop_sords_comment. comment was stipped of the stop word and then converted into numeric using CountVectorizer.
-
-## Models
-2 models were tested on the dataset RandomForestModel and SVC Model. both model were able to achieve model performance
 
 ## Summary and feature enhancement
 - RandomForestModel:
