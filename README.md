@@ -1,17 +1,13 @@
 ## Amazon Product Review - ML
 
-## Overview of the analysis
-The purpose of this analysis is to implement and develop a model for Amazon Products Reviews. The model is to detemine the positive and negitive reviews for products and determine which products is likely to grow sales. Dataset was used from a live API called RapidAPI.
-
-
-
 ## Overview
-Developing a Machine Learning Model to have a better understanding of customer’s sentiments on different electronic devices.
-Use the model to determine the viability of the product (positive, neutral, negative)
+The purpose of this analysis is to develop and implement a model on Amazon Products Review to have a better understanding of customer’s sentiments on different electronic devices.
+Use the model to determine the viability of the product (positive, neutral, negative) and which products are likely to increase sales.
 Our Analysis also include analysing different factors such as Product Price, Product Star Rating, Number of Product Ratings, Sales Volume, Total Revenue.
 We also Built a dashboard for better understanding of our data: https://public.tableau.com/app/profile/charu.arora1569/viz/Book2AmazonDashboard-2/Dashboard1
+Dataset was used from a live API called RapidAPI.
 
-![alt text](image.png)
+![Dashboard 1]
 
 ## Getting Started
 - Clone The repository using:  Amer4r/amazon_product_reviews_ML (github.com)
@@ -65,7 +61,7 @@ https://www.atlassian.com/data/notebook/how-to-save-a-plot-to-a-file-using-matpl
 Used to assist with coding issues when problems came up
 chatgpt.com
 
-### Contributors
+### Our Team
 - Amer Banaweer
 - Charu Arora
 - Edward Chac
