@@ -3,11 +3,13 @@
 ## Overview
 The purpose of this analysis is to develop and implement a model on Amazon Products Review to have a better understanding of customer’s sentiments on different electronic devices.
 Use the model to determine the viability of the product (positive, neutral, negative) and which products are likely to increase sales.
+
 Our Analysis also include analysing different factors such as Product Price, Product Star Rating, Number of Product Ratings, Sales Volume, Total Revenue.
 We also Built a dashboard for better understanding of our data: https://public.tableau.com/app/profile/charu.arora1569/viz/Book2AmazonDashboard-2/Dashboard1
+
 Dataset was used from a live API called RapidAPI.
 
-![Dashboard 1]
+![image](https://github.com/Amer4r/amazon_product_reviews_ML/assets/149630812/07404cee-57f1-4a14-87f7-b0a25c2c7488)
 
 ## Getting Started
 - Clone The repository using:  Amer4r/amazon_product_reviews_ML (github.com)
