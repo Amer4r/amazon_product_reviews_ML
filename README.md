@@ -1,4 +1,5 @@
 ## Amazon Product Review - ML
+Link to our presentation - https://docs.google.com/presentation/d/18TjK8ChmEEkLBotjQuiRbuLcqA1cIpAMsKkrK0abwz8/edit#slide=id.p
 
 ## Overview
 The purpose of this analysis is to develop and implement a model on Amazon Products Review to have a better understanding of customer’s sentiments on different electronic devices.
